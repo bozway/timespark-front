@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-5-starter",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.10.5",
+    "moment-timezone": "^0.5.43",
+    "cropperjs": "^1.5.13",
+    "libphonenumber-js": "^1.10.51",
+    "sortablejs": "^1.15.0",
+    "papaparse": "^5.4.1",
+    "sweetalert2": "^11.7.32"
+  },
+  "devDependencies": {
+    "sass": "~1.64.2",
+    "vite": "^4.4.9"
+  }
+}
